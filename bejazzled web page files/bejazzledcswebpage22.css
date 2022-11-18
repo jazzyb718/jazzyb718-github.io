@@ -1,0 +1,36 @@
+
+div{
+	text-align: center;
+	
+}
+h1{
+	color: purple;
+	font-family: "Cursive","Lucida handwriting";
+	text-shadow: 2px 2px 5px black;
+	text-align: center;
+}
+header{
+	align-items: flex-start;
+	text-align: center;
+  padding: 20px;}
+
+p{
+  	text-align: center;
+
+  }
+img{
+ 	margin: 5px;
+ 	transition: all 1s;
+ } 
+img:hover{
+	transform: scale(1.1);
+}
+style.btn
+	{display: flex;
+		justify-content: center;
+}
+h2{
+	text-align: center;
+	color: purple;
+}
+
